@@ -7,6 +7,8 @@
 
 These are my observations and consolidated notes for launching a Payload CMS site using the Vercel one-click starter — without running into migration or database drift issues. I developed this process with a lot of help from ChatGPT while launching my personal website at www.spinkscorners.com as a test project using Payload starting with the Vercel click to deploy.
 
+This readme is still a work in progress, follow the issues in the first milestone to get started
+
 ---
 
 ## 🚨 The Golden Rule
