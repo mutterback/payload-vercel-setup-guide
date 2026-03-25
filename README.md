@@ -5,7 +5,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)](https://nextjs.org)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-A **repeatable, production-safe workflow** for launching a Payload CMS site using the Vercel one-click starter — without running into migration or database drift issues.
+These are my observations and consolidated notes for launching a Payload CMS site using the Vercel one-click starter — without running into migration or database drift issues. I developed this process with a lot of help from ChatGPT while launching my personal website at www.spinkscorners.com as a test project using Payload starting with the Vercel click to deploy.
 
 ---
 
